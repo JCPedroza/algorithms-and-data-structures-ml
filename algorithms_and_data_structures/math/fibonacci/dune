@@ -1,0 +1,3 @@
+(executable
+ (name test_fibonacci)
+ (libraries ounit2))
