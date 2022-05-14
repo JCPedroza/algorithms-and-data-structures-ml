@@ -5,8 +5,14 @@ our love of programming and software engineering!
 
 ## Contributing
 
-## Toolchain
+Code reviews, pull requests, issues, and discussions are always welcome!
 
-- Package manager: opam
-- Builder: dune
-- Unit testing: ounit
+## Main Toolchain
+
+- Package manager: [opam][50]
+- Build system: [dune][51]
+- Unit testing: [ounit][52]
+
+[50]: https://opam.ocaml.org/
+[51]: https://dune.build/
+[52]: https://opam.ocaml.org/packages/ounit2/
