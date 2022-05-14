@@ -20,6 +20,7 @@ Code reviews, pull requests, issues, and discussions are always welcome!
 
 You can find similar repositories for other languages in the following links:
 
+- [Haskell][103]
 - [Python][101]
 - [JavaScript][102]
 
@@ -53,3 +54,4 @@ You can find similar repositories for other languages in the following links:
 
 [101]: https://github.com/JCPedroza/algorithms-and-data-structures-py
 [102]: https://github.com/JCPedroza/algorithms-and-data-structures-js
+[103]: https://github.com/JCPedroza/algorithms-and-data-structures-hs
