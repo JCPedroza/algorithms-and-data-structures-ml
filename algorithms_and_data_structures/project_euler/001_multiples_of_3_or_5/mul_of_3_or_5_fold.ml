@@ -11,5 +11,3 @@ let build_valid_range n =
 (** [mul_of_3_or_5] sums the multiples of 3 or 5 below [n]. *)
 let mul_of_3_or_5 n =
   fold_left ( + ) 0 (build_valid_range n)
-
-let () = print_int @@ mul_of_3_or_5 10
