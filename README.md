@@ -12,9 +12,12 @@ Code reviews, pull requests, issues, and discussions are always welcome!
 
 ## Main Toolchain
 
-- Package manager: [opam][70]
-- Build system: [dune][71]
-- Unit testing: [ounit][72]
+- Package manager
+  - [opam][70]
+- Build system
+  - [dune][71]
+- Unit testing
+  - [ounit][72]
 
 ## Similar Resources
 
