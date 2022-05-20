@@ -1,4 +1,4 @@
-(** [mul_of_3_or_5] sums the multiples of 3 or 5 below [n], using
+(** [mul_of_3_or_5] sums the multiples of 3 or 5 below [limit], using
 tail recursion. *)
 let mul_of_3_or_5 limit =
   let rec loop sum  = function

@@ -8,7 +8,7 @@ Find the sum of all the multiples of 3 or 5 below `n`.
 The function signature is
 
 ```ocaml
-let mul_of_3_or_5 n : int : int
+let mul_of_3_or_5 limit : int : int
 ```
 
 ## References

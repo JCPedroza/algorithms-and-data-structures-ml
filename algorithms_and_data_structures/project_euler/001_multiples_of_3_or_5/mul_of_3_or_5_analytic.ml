@@ -7,7 +7,7 @@ let sum_div_by n limit =
   let p = limit / n
   in n * ((p) * (p + 1)) / 2
 
-(** [mul_of_3_or_5] sums the multiples of 3 or 5 below [n], using an
+(** [mul_of_3_or_5] sums the multiples of 3 or 5 below [limit], using an
 analytic approach. *)
 let mul_of_3_or_5 limit =
   let limitMinOne = limit -1 in

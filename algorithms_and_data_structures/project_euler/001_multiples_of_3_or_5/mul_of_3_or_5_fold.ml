@@ -10,8 +10,8 @@ let build_valid_range limit =
 
 (** [mul_of_3_or_5] sums the multiples of 3 or 5 below [n], using fold,
 filter, and a range. *)
-let mul_of_3_or_5 n =
-  fold_left ( + ) 0 (build_valid_range n)
+let mul_of_3_or_5 limit =
+  fold_left ( + ) 0 (build_valid_range limit)
 
 let solution = mul_of_3_or_5
 let id = "fold range built with filter"
